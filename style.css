@@ -1,0 +1,47 @@
+.car-data button{
+    color: red;
+    background-color: white;
+    border-radius: 8px;
+    border: 2px solid
+}
+.car-data button{
+    width: 150px;
+    height: 50px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.car-data img{
+    width: 100%;
+    padding: 10px;
+}
+.rate-data h1, .icon{
+    display: flex;
+}
+.fig-data img{
+    margin-bottom: 10px;
+}
+.fig-data p{
+    border-bottom: 1px solid grey;
+    padding-bottom: 5px;
+}
+.float{
+    float: left;
+}
+.fig-data button{
+    color: red;
+    background-color: white;
+    border-radius: 8px;
+    border: 2px solid;
+    width: 100%;
+    height: 50px;
+    
+}
+.cab-data img{
+   padding: 5px;
+}
+.rent-data{
+   padding: 20px;
+}
